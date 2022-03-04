@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susanchez
-- 👀 I’m interested in books, backend-coding animals
+- 👀 I’m interested in books, backend-coding, animals
 - 🌱 I’m currently learning cs50 through harvard 
 - 💞️ I’m looking to collaborate on nothing yet 
 - 📫 How to reach me email 
